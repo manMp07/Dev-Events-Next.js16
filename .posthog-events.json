@@ -1,0 +1,32 @@
+[
+  {
+    "event_name": "explore_events_clicked",
+    "event_description": "User clicked the 'Explore Events' button on the homepage to scroll to the events section",
+    "file_path": "components/ExploreBtn.tsx"
+  },
+  {
+    "event_name": "event_card_clicked",
+    "event_description": "User clicked on an event card to view event details",
+    "file_path": "components/EventCard.tsx"
+  },
+  {
+    "event_name": "nav_home_clicked",
+    "event_description": "User clicked the Home link in the navigation bar",
+    "file_path": "components/Navbar.tsx"
+  },
+  {
+    "event_name": "nav_events_clicked",
+    "event_description": "User clicked the Events link in the navigation bar",
+    "file_path": "components/Navbar.tsx"
+  },
+  {
+    "event_name": "nav_create_event_clicked",
+    "event_description": "User clicked the Create Event link in the navigation bar",
+    "file_path": "components/Navbar.tsx"
+  },
+  {
+    "event_name": "logo_clicked",
+    "event_description": "User clicked the DevEvent logo in the navigation bar",
+    "file_path": "components/Navbar.tsx"
+  }
+]
